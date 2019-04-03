@@ -1,0 +1,15 @@
+body {
+    background-color: lightgray;
+}
+
+.affilitation {
+    color: blue;
+}
+
+article {
+    margin: 50px;
+}
+
+.header {
+    text-align: center;
+}
