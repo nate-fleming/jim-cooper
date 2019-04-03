@@ -3,7 +3,10 @@ body {
 }
 
 .affilitation {
-    color: blue;
+    background-color: rgb(78, 78, 235);
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 8px;
 }
 
 article {
@@ -13,3 +16,8 @@ article {
 .header {
     text-align: center;
 }
+
+img {
+    border-radius: 8px;
+}
+ 
