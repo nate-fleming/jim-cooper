@@ -20,6 +20,15 @@ body {
 
  
 .info {
+    display: flex;
+}
+
+.commitee {
+    flex-basis: 100%;
+}
+
+.legislation-list {
+    flex-basis: 100%;
 }
 
 
