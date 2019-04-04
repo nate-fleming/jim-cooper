@@ -4,6 +4,7 @@
 
 body {
     background-color: lightgray;
+    margin: 0;
 }
 
 .affilitation {
@@ -13,12 +14,15 @@ body {
     border-radius: 8px;
 }
 
+.jim {
+    object-fit: fill;
+}
+
 
 .header {
     text-align: center;
 }
 
- 
 .info {
     display: flex;
 }
